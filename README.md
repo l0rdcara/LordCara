@@ -1,5 +1,5 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello!
-<h1 align="center">My real name is **Eren**, known as **lordcara** everywhere you go and of course I'm 20 years old student from Romania.</h1>
+<h1 align="center">My real name is Eren, known as lordcara everywhere you go and of course I'm 20 years old student from Romania.</h1>
 <h3 align="center">Coordinator of the Public Relations Department</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lordcara&label=Profile%20views&color=0e75b6&style=flat" alt="lordcara" /> </p>
