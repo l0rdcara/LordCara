@@ -2,26 +2,26 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=valelelegod&color=ECBF32&style=flat-square)
 
-My real name is **Valentin**, known as **valelele** everywhere you go and of course I'm 20 years old student from Romania.
+My real name is **Eren**, known as **lordcara** everywhere you go and of course I'm 21 years old student from Romania at University "Ovidius" Constanta.
 
 <p align="center">
-   <a href="https://www.instagram.com/elelelav/" target="_blank">
+   <a href="https://www.instagram.com/eren.cara/" target="_blank">
       <img src="https://i.imgur.com/ZrXj1Qh.png" alt="Instagram" width="32" align="center">
    </a>
-   <a href="https://discord.com/users/337620156236955670" target="_blank" rel="nofollow">
+   <a href="https://discord.com/users/331800613383962625" target="_blank" rel="nofollow">
       <img src="https://i.imgur.com/cstwXyP.png" alt="Discord" width="32" align="center">
    </a>
-   <a href="https://www.facebook.com/callmegodv/" target="_blank" rel="nofollow">
+   <a href="https://www.facebook.com/eren.cara/" target="_blank" rel="nofollow">
       <img src="https://i.imgur.com/4A7maHh.png" alt="Facebok" width="32" align="center">
    </a>
-   <a href="https://www.ro-rp.ro/" target="_blank" rel="nofollow">
-      <img src="https://i.imgur.com/4dmnGlo.png" alt="RO-RP" width="32" align="center">
+   <a href="https://www.facebook.com/LSUOC/" target="_blank" rel="nofollow">
+      <img src="https://i.imgur.com/ZrXj1Qh.png" alt="LSUOC" width="32" align="center">
    </a>
 </p>
 
 <p align="center">
-   <a href="https://discord.com/users/337620156236955670" target="_blank" rel="nofollow">
-      <img src="https://lanyard-profile-readme.vercel.app/api/337620156236955670?idle" alt="Discord Presence" align="center">
+   <a href="https://discord.com/users/331800613383962625" target="_blank" rel="nofollow">
+      <img src="https://lanyard-profile-readme.vercel.app/api/331800613383962625?idle" alt="Discord Presence" align="center">
    </a>
 </p>
 
@@ -29,18 +29,16 @@ My real name is **Valentin**, known as **valelele** everywhere you go and of cou
 
 ### 🧑‍💻 What I do
       
-   - 💼 Currently, I’m working on **Romania Roleplay** (a Romanian RAGE MP server) as a Lead Game Developer.
-   - 👀 Trying to learn the script version of **Java** and I'm interested in **Game Developing**.
-   - 📫 You can reach me on Discord as **valelele#3394** or just email me at **rorpvalentin@gmail.com**.
+   - 💼 Currently, I’m working on **Liga Studenților - Universitatea „Ovidius” din Constanța** as a Coordinator of the Public Relations Department.
+   - 📫 You can reach me on Discord as **lordcara#7643** or just email me at **eren.caraidar@lsuoc.org**.
 ---
 
 ### 💻 Tools and tech stack:
 
-   * **Backend** - C#, C++, Pawn, C
-   * **Frontend** - HTML5/CSS3, JavaScript, Vue(JS)
-   * **Scripting** - Python3
-   * **Datastores** - MongoDB, MySQL
-   * **Tools** - GitHub, VSCode, VS
-   * **Other** - Linux (CentOS, Ubuntu, Debian)
+   * **Backend** - C#, C++, C
+   * **Frontend** - HTML5/CSS3, JavaScript
+   * **Datastores** - MySQL
+   * **Tools** - GitHub, VSCode,
+   * **Other** - Adobe Pack (Illustrator, Photoshop, InDesign)
 
 ---
