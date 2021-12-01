@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello!
 
-![Profile Views](https://komarev.com/ghpvc/?l0rdcara&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?lordcara&color=blue)
 
 My real name is **Eren**, known as **lordcara** everywhere you go and of course I'm 21 years old student from Romania at University "Ovidius" Constanta.
 
