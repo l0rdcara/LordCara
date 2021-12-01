@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello!
 
-![Profile Views](https://komarev.com/ghpvc/?username=valelelegod&color=ECBF32&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?l0rdcara&color=blue)
 
 My real name is **Eren**, known as **lordcara** everywhere you go and of course I'm 21 years old student from Romania at University "Ovidius" Constanta.
 
@@ -21,7 +21,7 @@ My real name is **Eren**, known as **lordcara** everywhere you go and of course 
 
 <p align="center">
    <a href="https://discord.com/users/331800613383962625" target="_blank" rel="nofollow">
-      <img src="https://lanyard-profile-readme.vercel.app/api/331800613383962625?idle" alt="Discord Presence" align="center">
+      <img src="https://lanyard-profile-readme.vercel.app/api/331800613383962625" alt="Discord Presence" align="center">
    </a>
 </p>
 
